@@ -1,3 +1,10 @@
+package com.miapp;
+
+import com.miapp.model.Cita;
+import com.miapp.model.Doctor;
+import com.miapp.model.Paciente;
+import com.miapp.model.GestorDeCitas;
+
 public class Main {
     public static void main(String[] args) {
         Doctor doctor = new Doctor("Dr001", "Juan Pérez");

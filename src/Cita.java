@@ -1,3 +1,5 @@
+package com.miapp.model;
+
 public class Cita {
     private String idCita;
     private Doctor doctor;
